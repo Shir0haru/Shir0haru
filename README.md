@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="banner.png">
+<img src="header.png">
 
 - 🔭 I’m currently working on Vue.js-Related Project
 - 🌱 I’m currently learning Angular
